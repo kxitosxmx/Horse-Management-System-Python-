@@ -1,0 +1,20 @@
+0,dummy,jockey,0,breed,0,0,B
+1,Breezy,Clarence,1,Thoroughbred,50,100,A
+2,Shy,Danny,2,Arabian,54,74,D
+3,Quickflame,Maddox,1,Haflinger,24,14,D
+4,Braveheart,Callahan,5,Arabian,52,54,B
+6,Aerosmith,Johnathan,4,Morgan,99,100,B
+8,Jumper,Owen,2,Mustang,53,54,D
+9,Vagabond,Christensen,3,Arabian,54,64,A
+11,Duke,Whitehead,4,Palomino,1,1,D
+12,Booger,Martin,5,Friesian,2,5,D
+14,Flash,Underwood,4,Morgan,19,44,C
+15,Tricks,Eric,3,Percheron,14,54,B
+16,Izzie,Cooley,3,Icelandic,44,74,C
+17,Eldorado,Jeff,1,Gypsy,34,74,A
+19,Morningbolt,Armstrong,2,Friesian,23,74,C
+21,Raindrop,Dale,3,Belgian,22,44,C
+31,Paladin,Zachary ,4,Morgan,34,54,A
+32,Voyager,May,2,Haflinger,24,64,A
+69,Flashlight,Carr,5,Appaloosa,12,21,B
+99,Bolt,Henry,3,Clydesdale,12,23,C
